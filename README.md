@@ -1,3 +1,5 @@
 # UAM_SI
 
-4 semestr UAM Sztuczna Inteligencja
+4 semestr UAM - Sztuczna Inteligencja
+
+Projekt - Inteligenty Traktor
